@@ -1,0 +1,13 @@
+sceneSetups:
+- path: Assets/Scenes/modle.unity
+  isLoaded: 1
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/start.unity
+  isLoaded: 1
+  isActive: 0
+  isSubScene: 0
+- path: "Assets/Scenes/\u5C4F\u5E55\u9002\u914D.unity"
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
